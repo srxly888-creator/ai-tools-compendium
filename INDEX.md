@@ -10,7 +10,7 @@
 
 | 工具类别 | 报告文件 | 关键工具 |
 |---------|---------|---------|
-| AI 编程 IDE | [ai-programming-ide.md](reports/ai-programming-ide.md) | Cursor, Windsurf, Zed, Void, PearAI |
+| AI 编程 IDE | [ai-programming-ide.md](reports/ai-programming-ide.md) | Cursor, Windsurf, Zed, Void, PearAI, Google Antigravity, OpenAI Codex App |
 | AI 数据库工具 | [ai-database-tools.md](reports/ai-database-tools.md) | Prisma AI, Drizzle, PlanetScale, Neon, Supabase |
 | AI 测试工具 | [ai-testing-tools-report.md](reports/ai-testing-tools-report.md) | Mabl, Testim, Applitools, Percy, Chromatic |
 | AI 代码审查 | [ai-code-review-tools-comparison.md](reports/ai-code-review-tools-comparison.md) | SonarQube, CodeClimate, Codacy, DeepSource, Semgrep |
