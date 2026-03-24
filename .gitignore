@@ -1,0 +1,31 @@
+# Files to ignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Build
+dist/
+build/
+*.pdf
+
+# Temp
+tmp/
+temp/
