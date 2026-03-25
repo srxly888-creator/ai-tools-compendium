@@ -21,11 +21,11 @@
 | # | 工具名称 | 定位 | 价格 | 推荐指数 |
 |---|---------|------|------|---------|
 | 1 | **Cursor** | AI-Native IDE | $20-40/月 | ⭐⭐⭐⭐ |
-| 2 | **Windsurf** | Cascade Flow | $10-60/月 | ⭐⭐⭐⭐⭐ |
+| 2 | **Windsurf** | Cascade Flow | $10-60/月 | ⭐⭐⭐⭐ |
 | 3 | **Zed** | 高性能编辑器 | 免费 | ⭐⭐⭐⭐ |
 | 4 | **Void** | 开源 AI IDE | 免费 | ⭐⭐⭐⭐ |
 | 5 | **PearAI** | 开源替代 | 免费 | ⭐⭐⭐⭐ |
-| 6 | **Google Antigravity** | Agent-First IDE | 免费 | ⭐⭐⭐⭐⭐ |
+| 6 | **Google Antigravity** | Agent-First IDE | 免费 | ⭐⭐⭐⭐ |
 | 7 | **OpenAI Codex App** | Agentic Command Center | 免费（API 另计） | ⭐⭐⭐⭐ |
 
 ---
@@ -129,7 +129,7 @@
 - 性能敏感项目
 
 ### 推荐指数
-⭐⭐⭐⭐⭐ (5/5)
+⭐⭐⭐⭐ (4/5)
 
 ---
 
@@ -330,7 +330,7 @@
 - 愿意尝试新工具的早期采用者
 
 ### 推荐指数
-⭐⭐⭐⭐⭐ (5/5)
+⭐⭐⭐⭐ (4/5)
 
 ---
 
@@ -453,6 +453,7 @@
 
 ### 1. **Agent-First 趋势**
 - Google Antigravity 和 OpenAI Codex App 都采用 **多代理架构**
+- 这两款工具代表方向，但当前更适合写成“新兴强选项”，而不是长期满分结论
 - 未来的 IDE 将更注重 **代理协作** 而非单点 AI 辅助
 
 ### 2. **云 vs 本地**
@@ -503,9 +504,9 @@
 | 场景 | 推荐工具 | 原因 |
 |------|---------|------|
 | **专业开发** | Cursor | 成熟生态，强大 Codebase 理解，但需接受产品波动 |
-| **创新体验** | Windsurf | Cascade Flow，多模型支持 |
+| **创新体验** | Windsurf | Cascade Flow，多模型支持，但产品形态仍在快速变化 |
 | **性能优先** | Zed | 极致性能，开源 |
-| **多代理协作** | Google Antigravity | Agent-First 设计，免费 |
+| **多代理协作** | Google Antigravity | Agent-First 设计，免费，但仍属新兴工具 |
 | **OpenAI 用户** | OpenAI Codex App | 官方工具，云环境 |
 | **预算有限** | Zed / PearAI | 完全免费 |
 | **隐私敏感** | Void | 本地运行，隐私保护 |
@@ -513,7 +514,7 @@
 ### 核心洞察
 
 1. **Cursor 仍是强选项**：成熟生态 + 强大能力，但不宜把满星当成永久结论
-2. **Agent-First 是未来**：Google 和 OpenAI 都在推动
+2. **Agent-First 是未来**：Google 和 OpenAI 都在推动，但新工具不等于长期满分
 3. **开源选择增多**：Zed, Void, PearAI 提供免费选择
 4. **云原生兴起**：OpenAI Codex App 引领云环境
 5. **竞争加剧**：更多选择，更好体验
