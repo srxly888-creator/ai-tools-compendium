@@ -37,7 +37,7 @@ ai-tools-compendium/
 
 | 工具类别 | 报告文件 | 工具数量 | Token |
 |---------|---------|---------|-------|
-| AI 编程 IDE | [ai-programming-ide.md](reports/ai-programming-ide.md) | 5 | 13.4k |
+| AI 编程 IDE | [ai-programming-ide.md](reports/ai-programming-ide.md) | 7 | 13.4k |
 | AI 数据库工具 | [ai-database-tools.md](reports/ai-database-tools.md) | 5 | 42.9k |
 | AI 测试工具 | [ai-testing-tools-report.md](reports/ai-testing-tools-report.md) | 5 | 9.2k |
 | AI 代码审查 | [ai-code-review-tools.md](reports/ai-code-review-tools.md) | 5 | - |
@@ -145,7 +145,7 @@ grep -r "DeepL" reports/
 ## 📊 工具快速索引
 
 ### 🔧 开发工具
-- **编程 IDE**: Cursor, Windsurf, Zed, Void, PearAI
+- **编程 IDE**: Cursor, Windsurf, Zed, Void, PearAI, Google Antigravity, OpenAI Codex App
 - **数据库**: Prisma AI, Drizzle, PlanetScale, Neon, Supabase
 - **测试**: Mabl, Testim, Applitools, Percy, Chromatic
 - **监控**: Datadog AI, New Relic, Dynatrace, Splunk, Grafana
