@@ -5,6 +5,8 @@
 > **覆盖范围**: 全球主流 AI 编程 IDE
 >
 > **说明**: 本报告里的推荐指数代表“当前综合表现 + 生态成熟度 + 可替代性”，不是永久结论。像 Cursor 这种变化很快的工具，会在新版本、定价、市场定位变化后重新评估。
+>
+> **评分口径补充**: 像 Microsoft Store 这种第三方评分，只把它当作“抓取时点的快照”。写法上优先保留平台名和时间语境，不把它当成静态永远有效的行业结论。
 
 ### 评分口径
 
@@ -341,7 +343,7 @@
 - **GitHub**: https://github.com/openai/codex
 - **发布时间**: 2026年2月2日（macOS），3月4日（Windows）
 - **定位**: Agentic Coding Command Center
-- **支持平台**: macOS, Windows（Microsoft Store 4.2★）
+- **支持平台**: macOS, Windows（Microsoft Store 4.2★，抓取时点：2026-03-25）
 - **价格**: 免费（需要 OpenAI API Key）
 
 ### 核心特性
@@ -518,6 +520,7 @@
 3. **开源选择增多**：Zed, Void, PearAI 提供免费选择
 4. **云原生兴起**：OpenAI Codex App 引领云环境
 5. **竞争加剧**：更多选择，更好体验
+6. **第三方评分是快照**：像 Microsoft Store 评分这类外部数值，应该标注抓取日期，并在后续版本中重新核对
 
 ---
 
