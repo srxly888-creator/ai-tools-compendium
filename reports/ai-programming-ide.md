@@ -442,11 +442,11 @@
 ### 按场景推荐
 
 #### 1. **大型项目开发**
-- **首选**: Cursor（Codebase 理解最强）
+- **首选**: Cursor（大代码库）
 - **备选**: Windsurf（Cascade Flow）
 
 #### 2. **多代理协作**
-- **首选**: Google Antigravity（Agent-First）
+- **首选**: Google Antigravity（多代理）
 - **备选**: OpenAI Codex App（云端）
 
 #### 3. **开源爱好者**
@@ -458,11 +458,11 @@
 - **备选**: PearAI（完全免费）
 
 #### 5. **Windows 用户**
-- **首选**: Cursor（成熟）
+- **首选**: Cursor（Windows 可用）
 - **备选**: OpenAI Codex App（原生支持）
 
 #### 6. **Google 生态用户**
-- **首选**: Google Antigravity（深度集成）
+- **首选**: Google Antigravity（Google 生态）
 - **备选**: Cursor（第三方集成）
 
 #### 7. **OpenAI API 用户**
