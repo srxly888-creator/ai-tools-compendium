@@ -442,23 +442,23 @@
 ### 按场景推荐
 
 #### 1. **大型项目开发**
-- **首选**: Cursor（Codebase 理解最强，但需关注订阅和产品变化）
+- **首选**: Cursor（Codebase 理解最强）
 - **备选**: Windsurf（Cascade Flow）
 
 #### 2. **多代理协作**
-- **首选**: Google Antigravity（Agent-First 设计）
-- **备选**: OpenAI Codex App（云环境）
+- **首选**: Google Antigravity（Agent-First）
+- **备选**: OpenAI Codex App（云端）
 
 #### 3. **开源爱好者**
-- **首选**: Zed（性能最强）
-- **备选**: Void（隐私保护）
+- **首选**: Zed（性能优先）
+- **备选**: Void（隐私优先）
 
 #### 4. **预算有限**
 - **首选**: Zed（免费 + 高性能）
 - **备选**: PearAI（完全免费）
 
 #### 5. **Windows 用户**
-- **首选**: Cursor（成熟稳定，但要留意产品和定价变化）
+- **首选**: Cursor（成熟）
 - **备选**: OpenAI Codex App（原生支持）
 
 #### 6. **Google 生态用户**
@@ -475,8 +475,8 @@
 
 ### 1. **Agent-First 趋势**
 - Google Antigravity 和 OpenAI Codex App 都采用 **多代理架构**
-- 这两款工具代表方向，但当前更适合写成“新兴强选项”，而不是长期满分结论
-- 未来的 IDE 将更注重 **代理协作** 而非单点 AI 辅助
+- 它们代表方向，但还不算长期定论
+- 未来更偏 **代理协作**，而不是单点 AI 辅助
 
 ### 2. **云 vs 本地**
 - **云环境**：OpenAI Codex App（云端运行）
@@ -499,8 +499,8 @@
 
 ### 1. **Agent-First 设计**
 - 多代理协作成为标配
-- 代理自治能力增强
-- 人机协作模式演进
+- 代理自治增强
+- 人机协作演进
 
 ### 2. **云原生 IDE**
 - 云环境运行代理
@@ -525,22 +525,21 @@
 
 | 场景 | 推荐工具 | 原因 |
 |------|---------|------|
-| **专业开发** | Cursor | 成熟生态，强大 Codebase 理解，但需接受产品波动 |
-| **创新体验** | Windsurf | Cascade Flow，多模型支持，但产品形态仍在快速变化 |
+| **专业开发** | Cursor | 成熟生态，强大 Codebase 理解 |
+| **创新体验** | Windsurf | Cascade Flow，多模型支持 |
 | **性能优先** | Zed | 极致性能，开源 |
-| **多代理协作** | Google Antigravity | Agent-First 设计，免费，但仍属新兴工具 |
+| **多代理协作** | Google Antigravity | Agent-First 设计，免费 |
 | **OpenAI 用户** | OpenAI Codex App | 官方工具，云环境 |
 | **预算有限** | Zed / PearAI | 完全免费 |
 | **隐私敏感** | Void | 本地运行，隐私保护 |
 
 ### 核心洞察
 
-1. **Cursor 仍是强选项**：成熟生态 + 强大能力，但不宜把满星当成永久结论
-2. **Agent-First 是未来**：Google 和 OpenAI 都在推动，但新工具不等于长期满分
-3. **开源选择增多**：Zed, Void, PearAI 提供免费选择
-4. **云原生兴起**：OpenAI Codex App 引领云环境
-5. **竞争加剧**：更多选择，更好体验
-6. **第三方评分是快照**：像 Microsoft Store 评分这类外部数值，应该标注抓取日期，并在后续版本中重新核对
+1. **Cursor 仍强**：成熟生态 + 强 Codebase 理解
+2. **Agent-First 走强**：Google 和 OpenAI 都在推
+3. **开源选择多**：Zed, Void, PearAI 可替代
+4. **云原生上升**：OpenAI Codex App 代表云端方向
+5. **外部评分是快照**：要标注抓取日期并复核
 
 ---
 
